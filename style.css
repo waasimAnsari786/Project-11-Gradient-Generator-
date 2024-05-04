@@ -89,7 +89,7 @@ html body{
 
 .copy-code-text{
     color: white;
-    font-size: 2rem;
+    font-size: 1.7rem;
     font-family: "Poppins", sans-serif;
     text-transform: capitalize;
     background-color: transparent;
@@ -98,10 +98,17 @@ html body{
 
 .grad-property{
     color: white;
-    font-size: 2rem;
+    font-size: 1.5rem;
     font-family: "Poppins", sans-serif;
+    text-transform: capitalize;
 }
 
+.property-ctnr{
+    background-color: rgba(128, 128, 128, 0.527);
+    backdrop-filter: blur(5rem);
+    border-radius: .5rem;
+    border-left: .3rem solid white;
+}
 /* my gradient generator end */
 
 
